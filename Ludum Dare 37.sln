@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E234DA40-3158-56B1-33DB-ABB30A09E0D0}") = "Ludum Dare 37", "Assembly-CSharp.csproj", "{EC0C5C4A-E3E6-701B-15CF-FE0F72536A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0C5C4A-E3E6-701B-15CF-FE0F72536A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0C5C4A-E3E6-701B-15CF-FE0F72536A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0C5C4A-E3E6-701B-15CF-FE0F72536A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0C5C4A-E3E6-701B-15CF-FE0F72536A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

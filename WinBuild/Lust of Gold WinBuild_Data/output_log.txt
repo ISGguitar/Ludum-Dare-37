@@ -1,0 +1,49 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   10.18.15.4274
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\ISGguitar\Documents\Ludum Dare 37\WinBuild\Lust of Gold WinBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 23.067862 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.264875 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 0.319184 ms (FindLiveObjects: 0.041060 ms CreateObjectMapping: 0.018605 ms MarkObjects: 0.251497 ms  DeleteObjects: 0.007698 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.423769 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 1.266150 ms (FindLiveObjects: 0.036890 ms CreateObjectMapping: 0.050363 ms MarkObjects: 0.409967 ms  DeleteObjects: 0.767966 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.282293 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 0.432422 ms (FindLiveObjects: 0.129277 ms CreateObjectMapping: 0.020851 ms MarkObjects: 0.274915 ms  DeleteObjects: 0.007057 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 984 -> priority: 1 
